@@ -1,0 +1,13 @@
+.gomb {
+    width: 400px;
+    background-color: green;
+}
+
+select {
+    color: gray;
+}
+
+form {
+    border: 2px solid black;
+    width: 500px;
+}
